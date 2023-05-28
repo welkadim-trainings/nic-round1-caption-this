@@ -3,7 +3,7 @@
 - Class Date: May 28 - 29, 2023
 - Facilitator: @waelelkadim
 
-## Class Resources
+# Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
